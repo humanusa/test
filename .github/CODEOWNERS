@@ -1,4 +1,4 @@
 # .bitbucket/CODEOWNERS
             
-# Default reviewers for files not matching patterns below
-               *        iamhumanusa@gmail.com
+# Default reviewer 
+*        @humanusa
